@@ -135,10 +135,10 @@ The script includes comprehensive error handling:
 ```
 deployment-process-automation/
 ├── code.js                 # Main Apps Script code
-├── appsscript.json        # Apps Script configuration
-├── sidebar.html           # Main sidebar interface
-├── sidebar-inputs.html    # Input form sidebar
-└── README.md             # This documentation
+├── appsscript.json         # Apps Script configuration
+├── sidebar.html            # Main sidebar interface
+├── sidebar-inputs.html     # Input form sidebar
+└── README.md               # This documentation
 ```
 
 ### Key Components
