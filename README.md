@@ -164,18 +164,6 @@ Enable logging to troubleshoot issues:
 - Use `Logger.log()` statements throughout the code
 - Verify document structure matches requirements
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly with sample documents
-5. Submit a pull request
-
-## License
-
-This project is open source. Please check the license file for details.
-
 ## Support
 
 For issues and questions:
